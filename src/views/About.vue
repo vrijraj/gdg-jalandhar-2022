@@ -2,11 +2,13 @@
   <v-main class="py-md-8 py-0">
     <v-container fluid>
       <v-row align="center" justify="center">
-        <v-col md="11" lg="9">
-          <p class="google-font mb-0" style="font-size: 35px; font-weight: 300">
-            About Google Developers Group Jalandhar
+        <v-col md="11" lg="9" class="text-center">
+          <v-img class="mt-md-n3 my-5 my-md-0" :src="require('@/assets/img/about.svg')" :lazy-src="require('@/assets/img/about.svg')" ></v-img>
+          <p class="gdg-heading mb-0 ">
+            Google Developers Group Jalandhar
           </p>
-          <p>
+          <p class="google-font" style="color:#5f6368;font-size:19px">The Community of Developers, For Developers, By Developers</p>
+          <p class="mt-5">
             Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We
             started our journey in Feb 2011. We try to engage student
             developers, fresh graduates and professionals through our hack
@@ -20,15 +22,16 @@
             resources and products.
           </p>
 
-          <social-media class="mb-5" />
+          <social-media community="GDG" class="mb-5" />
 
-          <v-btn color="primary" depressed class="mr-3">Join us</v-btn>
-          <v-btn color="primary" depressed outlined>Join us</v-btn>
+          <v-btn color="primary" href="https://gdg.community.dev/gdg-jalandhar/" target="_blank" depressed class="mr-3">Join us</v-btn>
 
           <br /><br />
           <p>Questions? Please contact gdgjalandhar@gmail.com</p>
 
-          <v-container fluid class="px-0">
+          <v-divider class="mt-md-15 mt-8 mb-0 mb-md-5"></v-divider>
+
+          <v-container fluid class="px-0 text-left my-md-15 my-3">
             <v-row
               justify="center"
               align="center"
@@ -36,8 +39,7 @@
             >
               <v-col md="8">
                 <p
-                  class="google-font mb-0"
-                  style="font-size: 35px; font-weight: 300"
+                  class="gdg-heading mb-0"
                 >
                   Women Techmakers Jalandhar
                 </p>
@@ -49,7 +51,9 @@
                   Google’s Women Techmakers program provides visibility,
                   community, and resources for women in technology.
                 </p>
-                <v-btn rounded outlined>See Events</v-btn>
+                <social-media community="WTM" class="mb-5" />
+                <v-btn rounded depressed class="mr-3" href="https://wtm.gdgjalandhar.com/" target="_blank" color="primary">WTM Jalandhar</v-btn>
+                <v-btn rounded outlined href="https://www.womentechmakers.com/" target="_blank">More Info</v-btn>
               </v-col>
               <v-col md="4">
                 <v-img

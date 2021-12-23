@@ -8,7 +8,7 @@
         <p>
           Our mission is to empower our community members by enhancing their skills to speak about their learnings with hands-on practices and creating solution.
         </p>
-        <social-media class="mb-5"/>
+        <social-media community="GDG" class="mb-5"/>
         
         <v-btn rounded color="primary" depressed class="mr-3">Join us</v-btn>
         <v-btn rounded color="primary" depressed outlined>Join us</v-btn>

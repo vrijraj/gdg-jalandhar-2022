@@ -48,8 +48,8 @@
                       class="google-font mb-0 mt-1"
                       style="font-size: 110%; font-weight: 500; color: black"
                       >
-                        {{ data.company.designation }} | 
-                        <span v-if="data.company.extra.length">{{ data.company.extra }} </span>
+                        {{ data.company.designation }}  
+                        <span v-if="data.company.extra.length">| {{ data.company.extra }} </span>
                       </v-list-item-subtitle
                     >
                     
@@ -63,8 +63,7 @@
               <p class="google-font mb-0" style="font-size: 110%; color: black">
                 <b>Bio</b>
               </p>
-              <p class="google-font" style="font-size: 120%; color: black">
-                {{ data.bio }}
+              <p class="google-font" style="font-size: 120%; color: black" v-html="data.bio">
               </p>
 
               <SocialMediaDetails

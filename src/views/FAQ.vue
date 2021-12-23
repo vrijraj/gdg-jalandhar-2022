@@ -3,7 +3,7 @@
     <v-container fluid>
       <v-row align="center" justify="center">
         <v-col md="11" lg="9">
-          <p class="google-font mb-0" style="font-size: 35px; font-weight: 300">
+          <p class="gdg-heading mb-0">
             Frequently asked questions
           </p>
           <p>Need Answers? Everything you need to know</p>

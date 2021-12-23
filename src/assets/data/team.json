@@ -15,63 +15,78 @@
     }
   },
   {
-    "id": "101",
-    "name": "Vrijraj Singh",
+    "id": "102",
+    "name": "Ashwani Kumar",
     "company": {
-      "designation": "Organizer",
-      "extra": "GDE For Firebase & Web",
+      "designation": "Team Member",
+      "extra": "",
       "name": "GDG Jalandhar"
     },
-    "image": "vrijraj.png",
-    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "image": "ashwani.jpg",
+    "bio": "I am a cybersecurity enthusiast having a great interest in web application development and security.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/vrijrajsingh"
+      "linkedin": "https://www.linkedin.com/in/ashwani-kumar-202389182",
+      "twitter": "https://twitter.com/Ashwani44877357"
     }
   },
   {
-    "id": "101",
-    "name": "Vrijraj Singh",
+    "id": "103",
+    "name": "Bharat Agarwal",
     "company": {
-      "designation": "Organizer",
-      "extra": "GDE For Firebase & Web",
+      "designation": "Team Member",
+      "extra": "",
       "name": "GDG Jalandhar"
     },
-    "image": "vrijraj.png",
-    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "image": "bharat.jpg",
+    "bio": "Full Stack Developer",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/vrijrajsingh"
+      "linkedin": "https://linkedin.com/in/bharatagsrwal",
+      "twitter": "https://twitter.com/bharatagsrwal"
     }
   },
   {
-    "id": "101",
-    "name": "Vrijraj Singh",
+    "id": "103",
+    "name": "Siv Ram Shastri",
     "company": {
       "designation": "Organizer",
-      "extra": "GDE For Firebase & Web",
+      "extra": "Team Member",
       "name": "GDG Jalandhar"
     },
-    "image": "vrijraj.png",
-    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "image": "sivram.jpg",
+    "bio": "I am a frontend Web Developer interested in creating beautiful Web pages. Also, I deliver sessions at GDG Jalandhar and I love contributing to the opensource.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/vrijrajsingh"
+      "linkedin": "https://www.linkedin.com/in/imsivram1999/",
+      "twitter": "https://twitter.com/prince_shivaram?s=09"
     }
   },
   {
-    "id": "101",
-    "name": "Vrijraj Singh",
+    "id": "104",
+    "name": "Batchu Thrishna",
     "company": {
-      "designation": "Organizer",
-      "extra": "GDE For Firebase & Web",
+      "designation": "Team Member",
+      "extra": "",
       "name": "GDG Jalandhar"
     },
-    "image": "vrijraj.png",
-    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "image": "thrishna.jpg",
+    "bio": "Thrishna is a talented individual who seeks to explore new opportunities and accept challenges to enhance personal development. She is a UI/UX Designer mainly focusing on mobile interface designing with the help of the tools like Figma, Adobe XD & Photoshop. <br><br>She is a 2021 graduate in Computer Science from Lovely Professional University, Punjab. She has been a part of many developer communities out there & has served as a volunteer at various Workshops and Hackathons. <br><br>Her daily routine revolves around learning and designing beautiful interfaces. Thrishna is also an active contributor at Google Developers Group - GDG Jalandhar Community, where she volunteers the monthly meetups and delivers keynote sessions as well.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/vrijrajsingh"
+      "linkedin": "",
+      "twitter": "https://twitter.com/BatchuThrishna"
+    }
+  },
+  {
+    "id": "106",
+    "name": "Varsha Jaiswal",
+    "company": {
+      "designation": "Organizer & WTM Ambassador",
+      "extra": "",
+      "name": "GDG Jalandhar"
+    },
+    "image": "varsha.jpg",
+    "bio": "Varsha is a girl with a bag full of hardwork and determination to fulfill her responsibilities. Working as a Software Engineer, she has a keen interest in working on new technologies. Being a facilitator of #IamRemarkable Workshop, she always gives her best to motivate her surrounding. Despite busy schedules, she never misses any chance to travel and eat.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/varshajaiswal",
+      "twitter": "https://twitter.com/_varshajaiswal_"
     }
   }
 ]

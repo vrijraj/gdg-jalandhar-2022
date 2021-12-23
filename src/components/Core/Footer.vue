@@ -21,7 +21,7 @@
               <v-icon>mdi-chevron-up</v-icon>
             </v-btn>
           </v-fab-transition>
-          <SocialMedia class="mb-2 mt-n2" />
+          <SocialMedia community="GDG" class="mb-2 mt-n2" />
           <v-divider></v-divider>
         </v-col>
       </v-row>
@@ -102,11 +102,11 @@
       <v-row align="center" justify="center">
         <v-col md="11" lg="9" class="my-0">
           <v-divider class="mb-4"></v-divider>
-          <span class="google-font mr-5" style="font-size: 25px">
+          <span class="google-font mr-5" style="font-size: 22px;color:#5f6368">
             Google Developers Group Jalandhar
           </span>
-          <div class="float-right mt-2">
-            <br class="hidden-md-and-up" />
+          <div class="float-md-right mt-2">
+            <!-- <br class="hidden-md-and-up" /> -->
             <router-link
               to="/code-of-conduct"
               target="_blank"
@@ -127,7 +127,7 @@
             <br class="hidden-md-and-up" />
 
             <a
-              href="https://gdg.community.dev/gdg-jalandhar/"
+              href="https://developers.google.com/community-guidelines"
               target="_blank"
               rel="noreferrer"
               class="grey--text text--darken-3 mr-4 google-font"
@@ -163,11 +163,11 @@ export default {
     Resources: [
       {
         name: "Become a Sponsor",
-        link: "https://gdgjalandhar.com/devfestpunjab@gmail.com",
+        link: "mailto:gdgjalandhar@gmail.com?subject=[Become a Sponsor] Your Name",
       },
       {
         name: "Call for Speakers",
-        link: "https://developers.google.com/programs/community/gdg/",
+        link: "mailto:gdgjalandhar@gmail.com?subject=[Call for Speakers] Your Name",
       },
       {
         name: "Media Kit",
@@ -177,19 +177,19 @@ export default {
     DevConsole: [
       {
         name: "Google API Console",
-        link: "https://gdgjalandhar.com/devfestpunjab@gmail.com",
+        link: "https://console.developers.google.com/",
       },
       {
         name: "GCP Console",
-        link: "https://developers.google.com/programs/community/gdg/",
+        link: "https://console.cloud.google.com/",
       },
       {
         name: "Google Play Console",
-        link: "https://www.womentechmakers.com/",
+        link: "https://play.google.com/console/",
       },
       {
-        name: "Firebase",
-        link: "https://www.womentechmakers.com/",
+        name: "Firebase Console",
+        link: "https://console.firebase.google.com/",
       },
     ],
   }),

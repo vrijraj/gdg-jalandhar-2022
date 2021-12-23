@@ -18,7 +18,7 @@
             >
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-3" style="font-size:85%"
-                  > Checkout the new initiative by GDG WTM Jalandhar</span
+                  > Checkout the new initiative: TechDrill by GDG WTM Jalandhar</span
                 >
                 <br class="d-block d-sm-none" />
                 <a
@@ -38,17 +38,20 @@
       </v-slide-y-reverse-transition>
     </v-main>
     <AppFooter/>
+    <AppDrawer/>
   </v-app>
 </template>
 
 <script>
 import AppToolbar from "../src/components/Core/Toolbar.vue";
 import AppFooter from "../src/components/Core/Footer.vue"
+import AppDrawer from "../src/components/Core/Drawer.vue"
 export default {
   name: "App",
   components: {
     AppToolbar,
-    AppFooter
+    AppFooter,
+    AppDrawer
   },
   data: () => ({
     //
