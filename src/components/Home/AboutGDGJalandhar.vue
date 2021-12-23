@@ -1,14 +1,13 @@
 <template>
   <v-container fluid class="px-0">
-    <v-row justify="center" align="center">
+    <!-- <v-row justify="center" align="center">
       <v-col md="12" cols="12">
         <p class="gdg-heading mb-0">About Google Developers Group Jalandhar</p>
         <p>
          Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share, and get productive using the various Google products. It was formed in February 2011. A special community called Women Techmakers Jalandhar has been founded for girls to bridge the gap between women who are eager to lay their hands on the latest technology. 
         </p>
-        <!-- <v-btn rounded outlined>Become a Member</v-btn> -->
       </v-col>
-    </v-row>
+    </v-row> -->
 
     <v-row justify="center" align="center" class="my-10 pa-3 mx-1" style="background:#F1F3F4;border-radius:25px">
         <v-col md="4" cols="12">
