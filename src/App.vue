@@ -18,7 +18,7 @@
             >
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-3" style="font-size:85%"
-                  > Checkout the new initiative: TechDrill by GDG WTM Jalandhar</span
+                  > Checkout the new initiative: <b>TechDrill</b> by GDG WTM Jalandhar</span
                 >
                 <br class="d-block d-sm-none" />
                 <a
