@@ -3,8 +3,8 @@
     <v-row justify="center" align="center">
       
       <v-col md="8" class="order-2 order-md-1">
-        <p class="google-font mb-0" style="font-size:35px;font-weight:300">The Community of Developers,</p>
-        <p class="google-font mb-0" style="font-size:35px;font-weight:300">For Developers, By Developers</p>
+        <p class="mb-0 gdg-heading">The Community of Developers,</p>
+        <p class="mb-0 gdg-heading">For Developers, By Developers</p>
         <p>
           Our mission is to empower our community members by enhancing their skills to speak about their learnings with hands-on practices and creating solution.
         </p>

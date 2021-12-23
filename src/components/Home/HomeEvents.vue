@@ -2,7 +2,7 @@
   <v-container fluid class="ma-0 pa-0">
     <v-row justify="center" align="center">
       <v-col md="3">
-        <p class="google-font mb-0" style="font-size: 35px; font-weight: 300">
+        <p class="gdg-heading mb-0">
           Our Community Events
         </p>
         <p>

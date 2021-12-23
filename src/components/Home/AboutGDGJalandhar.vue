@@ -1,8 +1,8 @@
 <template>
-  <v-container fluid class="ma-0 pa-0" >
+  <v-container fluid class="ma-0 pa-0 mt-8 mt-md-5" >
     <v-row justify="center" align="center">
       <v-col md="12" cols="12">
-        <p class="google-font mb-0" style="font-size:35px;font-weight:300">About Google Developers Group Jalandhar</p>
+        <p class="gdg-heading mb-0">About Google Developers Group Jalandhar</p>
         <p>
          Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share, and get productive using the various Google products. It was formed in February 2011. A special community called Women Techmakers Jalandhar has been founded for girls to bridge the gap between women who are eager to lay their hands on the latest technology. 
         </p>
@@ -12,7 +12,7 @@
 
     <v-row justify="center" align="center" class="my-10 pa-3" style="background:#F1F3F4;border-radius:25px">
         <v-col md="4" cols="12">
-            <p class="google-font mb-0" style="font-size:30px;font-weight:300">What we do?</p>
+            <p class="gdg-subheading mb-0">What we do?</p>
             <p>Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.</p>
             <p>About different Google technologies</p>
             <v-chip class="mr-1 mb-2" small outlined rounded v-for="(item, index) in tech" :key="index">{{item}}</v-chip>

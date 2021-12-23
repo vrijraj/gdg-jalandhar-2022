@@ -18,14 +18,15 @@
             >
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-3" style="font-size:85%"
-                  >TechDrill is an initiative where we’ll train the community members by hosting 7-days trainings, twice in a month by providing training, opportunity to learn and resources to grow.</span
+                  > Checkout the new initiative by GDG WTM Jalandhar</span
                 >
                 <br class="d-block d-sm-none" />
-                <router-link
+                <a
                   class=""
-                  to="https://vrijraj.xyz"
+                  href="https://techdrill.gdgjalandhar.com/"
                   style="color: white"
-                  >See More</router-link
+                  target="_blank"
+                  >See More</a
                 >
               </p>
             </v-col>

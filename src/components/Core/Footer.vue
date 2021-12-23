@@ -107,17 +107,17 @@
           </span>
           <div class="float-right mt-2">
             <br class="hidden-md-and-up" />
-            <a
-              href="https://gdg.community.dev/gdg-jalandhar/"
+            <router-link
+              to="/code-of-conduct"
               target="_blank"
               rel="noreferrer"
               class="grey--text text--darken-3 mr-4 google-font"
               style="text-decoration: none"
-              >Code of Conducts</a
+              >Code of Conducts</router-link
             >
             <br class="hidden-md-and-up" />
             <a
-              href="https://gdg.community.dev/gdg-jalandhar/"
+              href="https://gdg.community.dev/participation-terms/"
               target="_blank"
               rel="noreferrer"
               class="grey--text text--darken-3 mr-4 google-font"
