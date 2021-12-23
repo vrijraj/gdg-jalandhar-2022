@@ -8,6 +8,11 @@
   font-family: "google-sans", Helvetica, Arial, Sans-Serif;
 }
 
+.v-btn{
+  text-transform: capitalize;
+  font-family:'google-sans';
+}
+
 /* Large Scale Display */
 @media screen and (min-width: 600px) {
   .gdg-heading {

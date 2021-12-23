@@ -72,7 +72,7 @@ const routes = [
   },
   {
     path: "*",
-    name: "Page Not Found",
+    name: "PageNotFound",
     component: () =>
       import(/* webpackChunkName: "FAQ" */ "../views/PageNotFound.vue"),
       meta:{

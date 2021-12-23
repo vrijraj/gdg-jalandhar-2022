@@ -11,7 +11,7 @@
       @click="toggleDrawer"
       class="d-md-none d-lg-none"
     ></v-app-bar-nav-icon>
-    <v-toolbar-title class="google-font px-0" style="width: 250px"
+    <v-toolbar-title class="google-font px-0 mr-1" style="width: 260px"
       ><router-link
         to="/"
         class="google-font grey--text text--darken-2"
@@ -51,8 +51,12 @@
       <v-icon>mdi-share-variant</v-icon>
     </v-btn>
 
-    <v-btn href="https://gdg.community.dev/GDG-Jalandhar" style="text-transform: capitalize;" rounded depressed class="mx-2 google-font hidden-sm-and-down" outlined color="#616161" target="_blank" rel="noreferrer">
+    <v-btn href="https://gdg.community.dev/GDG-Jalandhar" rounded depressed class="mx-2 google-font hidden-sm-and-down" outlined color="#616161" target="_blank" rel="noreferrer">
       GDG Jalandhar
+    </v-btn>
+
+    <v-btn rounded depressed class="mx-2 google-font" color="error">
+      Under Dev
     </v-btn>
 
   </v-app-bar>
@@ -63,7 +67,7 @@ import { mapGetters, mapMutations } from "vuex";
 export default {
   name: "AppBar",
   data: () => ({
-    hideSlidersOn: ["EventPage"],
+    hideSlidersOn: ["PageNotFound","coc"],
   }),
   computed: {
     ...mapGetters(["links"]),
@@ -84,8 +88,8 @@ export default {
         navigator
           .share({
             title:
-              "TechDrill By GDG WTM Jalandhar",
-            url: "https://techdrill.gdgjalandhar.com"+this.$route.path,
+              "Google Developers Group Jalandhar",
+            url: "https://gdgjalandhar.com"+this.$route.path,
           })
           .then(() => {
             console.log("Thanks for sharing");

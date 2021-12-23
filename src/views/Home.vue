@@ -3,10 +3,10 @@
     <v-container fluid>
       <v-row align="center" justify="center">
         <v-col md="11" lg="9">
-          <Hero/>
-          <AboutGDGJalandhar class="my-md-10 py-md-10"/>
-          <HomeEvent class="mb-md-15 mt-n5"/>
-          <AboutWTMJalandhar class="mb-md-15 "/>
+          <Hero class=""/>
+          <AboutGDGJalandhar class="my-9 mb-5"/>
+          <HomeEvent class="pb-10 "/>
+          <AboutWTMJalandhar class="mt-md-8 mb-10"/>
         </v-col>
       </v-row>
     </v-container>
