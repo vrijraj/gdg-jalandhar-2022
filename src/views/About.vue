@@ -1,5 +1,5 @@
-<template>
-  <v-main>
+<template >
+  <v-main class="py-md-8 py-0">
     <v-container fluid>
       <v-row align="center" justify="center">
         <v-col md="11" lg="9">
@@ -25,8 +25,39 @@
           <v-btn color="primary" depressed class="mr-3">Join us</v-btn>
           <v-btn color="primary" depressed outlined>Join us</v-btn>
 
-          <br><br>
+          <br /><br />
           <p>Questions? Please contact gdgjalandhar@gmail.com</p>
+
+          <v-container fluid class="px-0">
+            <v-row
+              justify="center"
+              align="center"
+              style="gradient: to bottom, red, blue"
+            >
+              <v-col md="8">
+                <p
+                  class="google-font mb-0"
+                  style="font-size: 35px; font-weight: 300"
+                >
+                  Women Techmakers Jalandhar
+                </p>
+                <p>
+                  A special community called Women Techmakers Jalandhar has been
+                  founded for girls to bridge the gap between women who are
+                  eager to lay their hands on the latest technology.
+                  <br /><br />
+                  Google’s Women Techmakers program provides visibility,
+                  community, and resources for women in technology.
+                </p>
+                <v-btn rounded outlined>See Events</v-btn>
+              </v-col>
+              <v-col md="4">
+                <v-img
+                  src="https://www.womentechmakers.com/static/assets/imgs/ambassadors/cards/card2-536.jpg"
+                ></v-img>
+              </v-col>
+            </v-row>
+          </v-container>
         </v-col>
       </v-row>
     </v-container>
