@@ -19,10 +19,10 @@ export default new Vuex.Store({
       {
         text: "Team",
         to: "/team",
-        icon: "mdi-newspaper-variant-outline",
+        icon: "mdi-account-group-outline",
         meta: {
           showToolbar: true,
-          showBottomNav: false,
+          showBottomNav: true,
         },
       },
       {
@@ -31,7 +31,7 @@ export default new Vuex.Store({
         icon: "mdi-newspaper-variant-outline",
         meta: {
           showToolbar: true,
-          showBottomNav: false,
+          showBottomNav: true,
         },
       },
       {
@@ -40,7 +40,7 @@ export default new Vuex.Store({
         icon: "mdi-information-outline",
         meta: {
           showToolbar: true,
-          showBottomNav: false,
+          showBottomNav: true,
         },
       },
       
@@ -50,7 +50,7 @@ export default new Vuex.Store({
         icon: "mdi-star-outline",
         meta: {
           showToolbar: true,
-          showBottomNav: true,
+          showBottomNav: false,
         },
       }
     ]

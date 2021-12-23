@@ -37,7 +37,7 @@
               align="center"
               style="gradient: to bottom, red, blue"
             >
-              <v-col md="8">
+              <v-col md="8" cols="12">
                 <p
                   class="gdg-heading mb-0"
                 >
@@ -55,7 +55,7 @@
                 <v-btn rounded depressed class="mr-3" href="https://wtm.gdgjalandhar.com/" target="_blank" color="primary">WTM Jalandhar</v-btn>
                 <v-btn rounded outlined href="https://www.womentechmakers.com/" target="_blank">More Info</v-btn>
               </v-col>
-              <v-col md="4">
+              <v-col md="4" cols="12">
                 <v-img
                   src="https://www.womentechmakers.com/static/assets/imgs/ambassadors/cards/card2-536.jpg"
                 ></v-img>

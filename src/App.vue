@@ -37,8 +37,9 @@
         <router-view v-show="show" />
       </v-slide-y-reverse-transition>
     </v-main>
-    <AppFooter/>
+    <AppFooter class="hidden-sm-and-down" />
     <AppDrawer/>
+    <AppBottomNavBar class="hidden-md-and-up"/>
   </v-app>
 </template>
 
@@ -46,12 +47,14 @@
 import AppToolbar from "../src/components/Core/Toolbar.vue";
 import AppFooter from "../src/components/Core/Footer.vue"
 import AppDrawer from "../src/components/Core/Drawer.vue"
+import AppBottomNavBar from "../src/components/Core/BottomNav.vue"
 export default {
   name: "App",
   components: {
     AppToolbar,
     AppFooter,
-    AppDrawer
+    AppDrawer,
+    AppBottomNavBar
   },
   data: () => ({
     //

@@ -15,7 +15,7 @@
       <v-col md="9">
         <v-container fluid class="px-0">
           <v-row>
-            <v-col md="4" v-for="(item, index) in events" :key="index">
+            <v-col md="4" cols="12" v-for="(item, index) in events" :key="index">
               <v-card class="mx-auto" outlined flat style="border-radius:12px">
                 <v-img
                   class="white--text align-end"
