@@ -48,8 +48,8 @@
     "id": "103",
     "name": "Siv Ram Shastri",
     "company": {
-      "designation": "Organizer",
-      "extra": "Team Member",
+      "designation": "Team Member",
+      "extra": "",
       "name": "GDG Jalandhar"
     },
     "image": "sivram.jpg",
