@@ -1,17 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
     <title><%= htmlWebpackPlugin.options.title %></title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css"
+    />
+
+     <!-- SEO Tags -->
+     <meta content="yes" name="mobile-web-app-capable" />
+     <meta content="yes" name="apple-mobile-web-app-capable" />
+     <meta
+       content="black-translucent"
+       name="apple-mobile-web-app-status-bar-style"
+     />
+     <meta
+       name="description"
+       content="Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group."
+     />
+     <meta name="author" content="Google Developers Group Jalandhar Team" />
+     <meta
+       property="keywords"
+       content="GDG Jalandhar, Google Developers Group Jalandhar, DevFest India, DevFest India 2021, GDG India, GDG DevFest, GDG DevFest India, GDG, gdg, wtm, WomenTeckmakers, Women Teckmakers, Google Developer Groups,Google Developer Group, Google Developers,Google Developer,developer community, developer communities,developer, developers,programmer, programmers, programming, software engineering, software engineer, software engineers, coding, Developer meetup,Developer meetups, developer meetup, hackathons,codelabs, study jam, study jams, devmelas,Developer event, Developer events, Virtual developer event, Virtual developer events"
+     />
+     <!-- SEO Tags -->
+ 
+     <!-- SEO Facebook Tags -->
+     <meta property="og:title" content="Google Developers Group Jalandhar" />
+     <meta property="og:type" content="website" />
+     <meta
+       property="og:image"
+       content="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/GDG-Jalandhar-Cover%20Image.png"
+     />
+     <meta property="og:url" content="https://gdgjalandhar.com" />
+     <meta property="og:site_name" content="Google Developers Group Jalandhar" />
+     <meta
+       property="og:description"
+       content="Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group."
+     />
+     <!-- SEO Facebook Tags -->
+ 
+     <!-- SEO Twitter Tags -->
+     <meta name="twitter:card" content="summary_large_image" />
+     <meta name="twitter:url" content="https://gdgjalandhar.com" />
+     <meta name="twitter:title" content="Google Developers Group Jalandhar" />
+     <meta
+       name="twitter:description"
+       content="DevFest India is the annual developer’s fest organized by Google Developers Group. Like 2020, this year too we have 50+ GDG Communities uniting together to bring before you GDG Jalandhar"
+     />
+     <meta
+       name="twitter:image"
+       content="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/GDG-Jalandhar-Cover%20Image.png"
+     />
+     <meta
+       name="twitter:tags"
+       content="DevFest India, GDG Jalandhar, WTM, Women Techmakers, GDG"
+     />
+     <!-- SEO Twitter Tags -->
+
+     
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-84991751-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-84991751-1");
+    </script>
   </head>
   <body>
+    <!-- Google Developers Group Jalandhar Web Application -->
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->

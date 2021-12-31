@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="px-0">
     <v-row justify="center" align="center">
-      <v-col md="3">
+      <v-col md="3" cols="12">
         <p class="gdg-heading mb-0">
           Our Community Events
         </p>
@@ -12,7 +12,7 @@
         </p>
         <v-btn rounded outlined href="https://gdg.community.dev/gdg-jalandhar/" target="_blank">See Events</v-btn>
       </v-col>
-      <v-col md="9">
+      <v-col md="9" cols="12">
         <v-container fluid class="px-0">
           <v-row>
             <v-col md="4" cols="12" v-for="(item, index) in events" :key="index">

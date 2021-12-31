@@ -7,15 +7,10 @@
             Our Events
           </p>
           <p>
-            Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We
-            started our journey in Feb 2011. We try to engage student
-            developers, fresh graduates and professionals through our hack
-            events & meetups. The motive is to create a local ecosystem of
-            programmers & hackers in and around Jalandhar. The technology
-            awareness is main goal for first few years of the group.
+            Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.
           </p>
 
-          <p class="mt-10">Upcoming Event</p>
+          <p class="mt-10">Our Initiative</p>
           <v-container fluid style="background: #f1f3f4; border-radius: 12px">
             <v-row class="pa-4">
               <v-col md="8" cols="12">
@@ -26,19 +21,16 @@
                   TechDrill By GDG WTM Jalandhar
                 </p>
                 <p class="mt-2">
-                  <v-icon>mdi-calendar-month</v-icon> Jan 22, 2021 &nbsp;&nbsp;
-                  <v-icon>mdi-clock-outline</v-icon> 5:00 PM Onwards
+                  <v-icon>mdi-calendar-month</v-icon> Twice in a Month &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 7:00 PM Onwards
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Iusto animi omnis quam corrupti vitae, esse maiores quidem
-                  pariatur ad eveniet dignissimos, vel, eligendi ab deleniti?
-                  Voluptates enim sequi consequuntur dolorum?
+                  TechDrill is an initiative where we’ll train the community members by hosting 7-days trainings, twice in a month by providing training, opportunity to learn and resources to grow.
                 </p>
-                <v-btn rounded depressed color="primary" class="mr-2"
+                <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
-                >
-                <v-btn rounded outlined depressed color="primary"
+                > -->
+                <v-btn rounded outlined depressed color="primary" href="https://techdrill.gdgjalandhar.com/" target="_blank"
                   >More Info</v-btn
                 >
               </v-col>

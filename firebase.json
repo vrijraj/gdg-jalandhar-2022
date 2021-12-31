@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"dev-gdgjalandhar",
+    "site":"gdg-jalandhar-web-app",
     "public": "dist",
     "ignore": [
       "firebase.json",

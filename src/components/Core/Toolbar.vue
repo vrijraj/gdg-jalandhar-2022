@@ -18,7 +18,8 @@
         style="text-decoration: none; font-size: 125%"
       >
         <p class="google-font my-0 mb-0" style="">
-          <span style="color:#666666">GDG </span><span style="color:#4285FA">Jalandhar</span> 
+          <!-- <span style="color:#666666">GDG </span><span style="color:#4285FA">Jalandhar</span>  -->
+          <span style="color:#666666">GDG Jalandhar </span> 
         </p>
       </router-link></v-toolbar-title
     >
@@ -52,12 +53,12 @@
     </v-btn>
 
     <v-btn href="https://gdg.community.dev/GDG-Jalandhar" rounded depressed class="mx-2 google-font hidden-sm-and-down" outlined color="#616161" target="_blank" rel="noreferrer">
-      GDG Jalandhar
+      Become a Member
     </v-btn>
 
-    <v-btn rounded depressed class="mx-2 google-font" color="error">
+    <!-- <v-btn rounded depressed class="mx-2 google-font" color="error">
       Under Dev
-    </v-btn>
+    </v-btn> -->
 
   </v-app-bar>
 </template>

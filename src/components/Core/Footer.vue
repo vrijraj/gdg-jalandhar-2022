@@ -171,7 +171,7 @@ export default {
       },
       {
         name: "Media Kit",
-        link: "https://www.womentechmakers.com/",
+        link: "mailto:gdgjalandhar@gmail.com?subject=[Media Kit Request] Your Name",
       },
     ],
     DevConsole: [
