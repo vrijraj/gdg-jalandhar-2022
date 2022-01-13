@@ -5,7 +5,7 @@
     style="border: 1px solid #e0e0e0; border-radius: 12px"
   >
     <v-row justify="center" align="center" class="px-5 px-md-10 pb-0">
-      <v-col md="8" cols="12" class="order-2 order-md-1">
+      <v-col md="8" sm="8" cols="12" class="order-2 order-md-1">
         <p class="gdg-heading mb-0">Women Techmakers Jalandhar</p>
         <p>
           A special community called Women Techmakers Jalandhar has been founded
@@ -33,7 +33,7 @@
           >More Info</v-btn
         >
       </v-col>
-      <v-col md="4" cols="12" class="order-1 order-md-2">
+      <v-col md="4" sm="4" cols="12" class="order-1 order-md-2">
         <v-img :src="require('@/assets/img/wtm.png')"></v-img>
       </v-col>
     </v-row>

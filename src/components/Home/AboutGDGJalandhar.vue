@@ -19,7 +19,7 @@
         <v-col md="8" cols="12">
             <v-container fluid class="px-0">
                 <v-row>
-                    <v-col md="4" cols="12" v-for="(item, index) in whatWeDo" :key="index">
+                    <v-col md="4" cols="12" sm="4" v-for="(item, index) in whatWeDo" :key="index">
                         <p class="google-font mb-0" style="font-size:25px;font-weight:300">{{item.title}}</p>
                         <p>{{item.desc}}</p>
                     </v-col>

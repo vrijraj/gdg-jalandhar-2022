@@ -36,6 +36,11 @@ export default {
                 "name": "YouTube",
                 "link": "https://www.youtube.com/c/gdgjalandhar",
                 "icon": "mdi-youtube"
+            },
+            {
+                "name": "Discord",
+                "link": "http://discord.gdgjalandhar.com/",
+                "icon": "mdi-discord"
             }
         ],
         socialMediaWTM: [

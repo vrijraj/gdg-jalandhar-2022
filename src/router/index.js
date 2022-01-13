@@ -74,7 +74,7 @@ const routes = [
     path: "*",
     name: "PageNotFound",
     component: () =>
-      import(/* webpackChunkName: "FAQ" */ "../views/PageNotFound.vue"),
+      import(/* webpackChunkName: "PageNotFound" */ "../views/PageNotFound.vue"),
       meta:{
         title:"Page not found | GDG Jalandhar" 
       }

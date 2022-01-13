@@ -10,7 +10,7 @@
 
             <v-container fluid class="mx-0 px-0 pb-15 pb-5">
               <v-row>
-                <v-col md="2" v-for="(item, index) in team" :key="index">
+                <v-col md="2" cols="6" sm="4" v-for="(item, index) in team" :key="index">
                   <teamDialoge :data="item"/>
                 </v-col>
               </v-row>

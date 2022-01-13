@@ -20,11 +20,11 @@
                 <span class="mr-md-3" style="font-size:85%"
                   > Checkout the new initiative: <b>TechDrill</b> by GDG WTM Jalandhar</span
                 >
-                <br class="d-block d-sm-none" />
+                <!-- <br class="d-block d-sm-none" /> -->
                 <a
-                  class=""
+                  class="ml-1"
                   href="https://techdrill.gdgjalandhar.com/"
-                  style="color: white"
+                  style="color: white;font-size:85%"
                   target="_blank"
                   >See More</a
                 >
