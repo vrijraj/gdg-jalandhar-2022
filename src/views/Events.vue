@@ -10,6 +10,33 @@
             Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.
           </p>
 
+          <p class="mt-10">Upcoming Event</p>
+          <v-container fluid >
+            <v-row justify="start" align="start">
+              <v-col md="4" class="pa-7" cols="12" style="background: #f1f3f4; border-radius: 12px">
+                <p
+                  class="google-font mb-0"
+                  style="font-size: 25px; font-weight: 300"
+                >
+                  Chai pe Charcha
+                </p>
+                <p class="mt-2">
+                  <v-icon>mdi-calendar-month</v-icon> Jan 23, 2022 &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 4:30 PM - 6:00 PM (IST)
+                </p>
+                <p>
+                  Google Developers Group Jalandhar is organizing its first event of this year, Chai Pe Charcha, where mentors and mentees in various Technology fields come together to discuss various topics on Technologies, share their experience, answers mentees’ questions, do some fun activities, and have a cup of Tea to energize themselves.
+                </p>
+                <!-- <v-btn rounded depressed color="primary" class="mr-2"
+                  >Register Now</v-btn
+                > -->
+                <v-btn rounded outlined depressed color="primary" href="https://bit.ly/cpc-gdg" target="_blank"
+                  >Register Now</v-btn
+                >
+              </v-col>
+            </v-row>
+          </v-container>
+
           <p class="mt-10">Our Initiative</p>
           <v-container fluid style="background: #f1f3f4; border-radius: 12px">
             <v-row class="pa-4">
