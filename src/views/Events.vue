@@ -18,19 +18,19 @@
                   class="google-font mb-0"
                   style="font-size: 25px; font-weight: 300"
                 >
-                  Chai pe Charcha
+                  IWD Jalandhar 2022
                 </p>
                 <p class="mt-2">
-                  <v-icon>mdi-calendar-month</v-icon> Jan 23, 2022 &nbsp;&nbsp;
-                  <v-icon>mdi-clock-outline</v-icon> 4:30 PM - 6:00 PM (IST)
+                  <v-icon>mdi-calendar-month</v-icon> March 27, 2022 &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 4:00 PM - 6:00 PM (IST)
                 </p>
                 <p>
-                  Google Developers Group Jalandhar is organizing its first event of this year, Chai Pe Charcha, where mentors and mentees in various Technology fields come together to discuss various topics on Technologies, share their experience, answers mentees’ questions, do some fun activities, and have a cup of Tea to energize themselves.
+                  International women's day has been celebrated for years. With devotion to help women and make them believe. We at Women Techmakers Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech.
                 </p>
                 <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
                 > -->
-                <v-btn rounded outlined depressed color="primary" href="https://bit.ly/cpc-gdg" target="_blank"
+                <v-btn rounded outlined depressed color="primary" href="http://bit.ly/iwd-jalandhar-22" target="_blank"
                   >Register Now</v-btn
                 >
               </v-col>
