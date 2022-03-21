@@ -19,12 +19,12 @@
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-1" style="font-size:85%"> 
                   <!-- Checkout the new initiative: <b>TechDrill</b> by GDG WTM Jalandhar -->
-                  Checkout the new Meetup: <b>Chai pe Charcha</b>
+                  Checkout the new event: <b>IWD Jalandhar 2022</b>
                 </span>
                 <!-- <br class="d-block d-sm-none" /> -->
                 <a
                   class="ml-1"
-                  href="https://bit.ly/cpc-gdg"
+                  href="http://bit.ly/iwd-jalandhar-22"
                   style="color: white;font-size:85%"
                   target="_blank"
                   >See More</a
