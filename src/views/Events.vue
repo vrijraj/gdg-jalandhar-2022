@@ -18,15 +18,14 @@
                   class="google-font mb-0"
                   style="font-size: 25px; font-weight: 300"
                 >
-                  IWD Jalandhar 2022
+                    Google I/O Extended 2022
                 </p>
                 <p class="mt-2">
-                  <v-icon>mdi-calendar-month</v-icon> March 27, 2022 &nbsp;&nbsp;
-                  <v-icon>mdi-clock-outline</v-icon> 4:00 PM - 6:00 PM (IST)
+                  <v-icon>mdi-calendar-month</v-icon> May 15, 2022 &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 10:00 AM - 5:00 PM (IST)
                 </p>
                 <p>
-                  International women's day has been celebrated for years. With devotion to help women and make them believe. We at Women Techmakers Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech.
-                </p>
+                  Google Developer Groups Jalandhar brings you "Google IO Extended", a day event, where you find updates of Google's Products by our Google Experts and community enthusiasts. Learn about the latest technologies on Web, Android, ML, Cloud and explore more on what takes your breath away.                </p>
                 <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
                 > -->
@@ -57,7 +56,7 @@
                 <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
                 > -->
-                <v-btn rounded outlined depressed color="primary" href="https://techdrill.gdgjalandhar.com/" target="_blank"
+                <v-btn rounded outlined depressed color="primary" href="https://bit.ly/io22-jalandhar-event" target="_blank"
                   >More Info</v-btn
                 >
               </v-col>
