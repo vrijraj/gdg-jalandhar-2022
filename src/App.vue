@@ -18,12 +18,12 @@
             >
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-1" style="font-size:85%"> 
-                  Checkout the new event: <b>Google I/O Extended Jalandhar 2022</b>
+                  Checkout the new Hackathon: <b>DevCreate- Just Build it!</b>
                 </span>
                 <!-- <br class="d-block d-sm-none" /> -->
                 <a
                   class="ml-1"
-                  href="https://bit.ly/io22-jalandhar-event"
+                  href="https://hackathon.gdgjalandhar.com/"
                   style="color: white;font-size:85%"
                   target="_blank"
                   >See More</a
