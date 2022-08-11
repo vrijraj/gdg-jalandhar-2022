@@ -18,18 +18,18 @@
                   class="google-font mb-0"
                   style="font-size: 25px; font-weight: 300"
                 >
-                    Google I/O Extended 2022
+                    DevCreate Hackathon- Just Build it!
                 </p>
                 <p class="mt-2">
-                  <v-icon>mdi-calendar-month</v-icon> May 15, 2022 &nbsp;&nbsp;
-                  <v-icon>mdi-clock-outline</v-icon> 10:00 AM - 5:00 PM (IST)
+                  <v-icon>mdi-calendar-month</v-icon> Sept 3 & 4, 2022 &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 10:00 AM (IST)
                 </p>
                 <p>
-                  Google Developer Groups Jalandhar brings you "Google IO Extended", a day event, where you find updates of Google's Products by our Google Experts and community enthusiasts. Learn about the latest technologies on Web, Android, ML, Cloud and explore more on what takes your breath away.                </p>
+                  A platform for the techies to showcase their skills and knowledge to build something fruitful out of it. This hackathon is open to all Indian science, technology and engineering students pursuing undergraduate, postgraduate and doctoral degrees. </p>
                 <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
                 > -->
-                <v-btn rounded outlined depressed color="primary" href="http://bit.ly/iwd-jalandhar-22" target="_blank"
+                <v-btn rounded outlined depressed color="primary" href="https://hackathon.gdgjalandhar.com/" target="_blank"
                   >Register Now</v-btn
                 >
               </v-col>
