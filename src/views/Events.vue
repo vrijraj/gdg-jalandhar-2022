@@ -18,18 +18,18 @@
                   class="google-font mb-0"
                   style="font-size: 25px; font-weight: 300"
                 >
-                    DevCreate Hackathon- Just Build it!
+                    DevFest Jalandhar 2022
                 </p>
                 <p class="mt-2">
-                  <v-icon>mdi-calendar-month</v-icon> Sept 3 & 4, 2022 &nbsp;&nbsp;
-                  <v-icon>mdi-clock-outline</v-icon> 10:00 AM (IST)
+                  <v-icon>mdi-calendar-month</v-icon> Oct 16, 2022 &nbsp;&nbsp;
+                  <v-icon>mdi-clock-outline</v-icon> 07:00 AM (IST)
                 </p>
                 <p>
-                  A platform for the techies to showcase their skills and knowledge to build something fruitful out of it. This hackathon is open to all Indian science, technology and engineering students pursuing undergraduate, postgraduate and doctoral degrees. </p>
+                  An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc. </p>
                 <!-- <v-btn rounded depressed color="primary" class="mr-2"
                   >Register Now</v-btn
                 > -->
-                <v-btn rounded outlined depressed color="primary" href="https://hackathon.gdgjalandhar.com/" target="_blank"
+                <v-btn rounded outlined depressed color="primary" href="https://devfest.gdgjalandhar.com/" target="_blank"
                   >Register Now</v-btn
                 >
               </v-col>
