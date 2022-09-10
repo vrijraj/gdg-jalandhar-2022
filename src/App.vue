@@ -18,12 +18,12 @@
             >
               <p class="py-0 google-font mb-0">
                 <span class="mr-md-1" style="font-size:85%"> 
-                  Checkout the new Hackathon: <b>DevCreate- Just Build it!</b>
+                  Checkout the new Event: <b>DevFest Jalandhar 2022</b>
                 </span>
                 <!-- <br class="d-block d-sm-none" /> -->
                 <a
                   class="ml-1"
-                  href="https://hackathon.gdgjalandhar.com/"
+                  href="https://devfest.gdgjalandhar.com/"
                   style="color: white;font-size:85%"
                   target="_blank"
                   >See More</a
