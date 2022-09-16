@@ -11,7 +11,7 @@
         <social-media community="GDG" class="mb-5"/>
         
         <v-btn rounded color="primary" href="https://gdg.community.dev/gdg-jalandhar/" target="_blank" depressed class="mr-3">Join us</v-btn>
-        <v-btn rounded color="primary" depressed outlined to="/about">More Info</v-btn>
+        <v-btn rounded color="primary" depressed outlined to="/about" class="mr-3">More Info</v-btn>
         <button data-event-id="80005018890187" data-ticket-id="0" class="ae-ticket-book-button">Register for DevFest Jalandhar</button>
       </v-col>
       <v-col md="4" sm="4" cols="12" class="text-center order-1 order-md-2">
