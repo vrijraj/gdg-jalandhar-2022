@@ -3,6 +3,7 @@
     <AppToolbar />
     
     <v-main class="px-0 mx-0">
+    <!--
       <v-slide-y-reverse-transition>
         <v-container
           fluid
@@ -33,6 +34,7 @@
           </v-row>
         </v-container>
       </v-slide-y-reverse-transition>
+      -->
       <v-slide-y-reverse-transition>
         <router-view v-show="show" />
       </v-slide-y-reverse-transition>
