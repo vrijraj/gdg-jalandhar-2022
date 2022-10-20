@@ -21,7 +21,7 @@
                 <span class="mr-md-1" style="font-size:85%"> 
                   Checkout the new Event: <b>DevFest Jalandhar 2022</b>
                 </span>
-                <!-- <br class="d-block d-sm-none" /> -->
+                <br class="d-block d-sm-none" />
                 <a
                   class="ml-1"
                   href="https://devfest.gdgjalandhar.com/"
