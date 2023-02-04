@@ -74,19 +74,4 @@
       "twitter": "https://twitter.com/BatchuThrishna"
     }
   },
-  {
-    "id": "106",
-    "name": "Varsha Jaiswal",
-    "company": {
-      "designation": "Organizer & WTM Ambassador",
-      "extra": "",
-      "name": "GDG Jalandhar"
-    },
-    "image": "varsha.jpg",
-    "bio": "Varsha is a girl with a bag full of hardwork and determination to fulfill her responsibilities. Working as a Software Engineer, she has a keen interest in working on new technologies. Being a facilitator of #IamRemarkable Workshop, she always gives her best to motivate her surrounding. Despite busy schedules, she never misses any chance to travel and eat.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/varshajaiswal",
-      "twitter": "https://twitter.com/_varshajaiswal_"
-    }
-  }
 ]
